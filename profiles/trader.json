@@ -1,0 +1,11 @@
+{
+  "id": "ghost-009",
+  "username": "Ghosttrader",
+  "role": "trader",
+  "clanId": "ghost-clan-alpha",
+  "personality": "social",
+  "priorities": ["exchange"],
+  "responsibilities": ["Track supplies"],
+  "aiEnabled": true,
+  "enabled": false
+}

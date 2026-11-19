@@ -1,0 +1,11 @@
+{
+  "id": "ghost-004",
+  "username": "Ghostfarmer",
+  "role": "farmer",
+  "clanId": "ghost-clan-alpha",
+  "personality": "patient",
+  "priorities": ["food"],
+  "responsibilities": ["Maintain crops"],
+  "aiEnabled": true,
+  "enabled": false
+}

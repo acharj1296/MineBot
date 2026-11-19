@@ -1,0 +1,11 @@
+{
+  "id": "ghost-002",
+  "username": "Ghostminer",
+  "role": "miner",
+  "clanId": "ghost-clan-alpha",
+  "personality": "methodical",
+  "priorities": ["stone"],
+  "responsibilities": ["Locate resources"],
+  "aiEnabled": true,
+  "enabled": false
+}

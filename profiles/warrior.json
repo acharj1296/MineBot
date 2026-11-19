@@ -1,0 +1,11 @@
+{
+  "id": "ghost-005",
+  "username": "Ghostwarrior",
+  "role": "warrior",
+  "clanId": "ghost-clan-alpha",
+  "personality": "decisive",
+  "priorities": ["safety"],
+  "responsibilities": ["Protect allies"],
+  "aiEnabled": true,
+  "enabled": false
+}

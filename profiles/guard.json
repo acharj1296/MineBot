@@ -1,0 +1,11 @@
+{
+  "id": "ghost-007",
+  "username": "Ghostguard",
+  "role": "guard",
+  "clanId": "ghost-clan-alpha",
+  "personality": "watchful",
+  "priorities": ["defense"],
+  "responsibilities": ["Monitor settlement"],
+  "aiEnabled": true,
+  "enabled": false
+}

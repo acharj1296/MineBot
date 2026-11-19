@@ -1,0 +1,11 @@
+{
+  "id": "ghost-003",
+  "username": "Ghostbuilder",
+  "role": "builder",
+  "clanId": "ghost-clan-alpha",
+  "personality": "creative",
+  "priorities": ["shelter"],
+  "responsibilities": ["Design housing"],
+  "aiEnabled": true,
+  "enabled": false
+}

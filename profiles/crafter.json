@@ -1,0 +1,11 @@
+{
+  "id": "ghost-008",
+  "username": "Ghostcrafter",
+  "role": "crafter",
+  "clanId": "ghost-clan-alpha",
+  "personality": "precise",
+  "priorities": ["equipment"],
+  "responsibilities": ["Prepare tools"],
+  "aiEnabled": true,
+  "enabled": false
+}

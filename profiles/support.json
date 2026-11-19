@@ -1,0 +1,11 @@
+{
+  "id": "ghost-010",
+  "username": "Ghostsupport",
+  "role": "support",
+  "clanId": "ghost-clan-alpha",
+  "personality": "helpful",
+  "priorities": ["logistics"],
+  "responsibilities": ["Assist teammates"],
+  "aiEnabled": true,
+  "enabled": false
+}
