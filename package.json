@@ -1,0 +1,36 @@
+{
+  "name": "ghostclans-ai",
+  "version": "1.0.0",
+  "description": "Phase 1 infrastructure for independent Minecraft Java agents",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acharj1296/MineBot.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acharj1296/MineBot/issues"
+  },
+  "homepage": "https://github.com/acharj1296/MineBot#readme",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.10",
+    "minecraft-data": "^3.119.0",
+    "minecraft-protocol": "^1.68.0",
+    "mineflayer": "^4.39.0",
+    "mysql2": "^3.24.6",
+    "pino": "^10.4.0",
+    "prismarine-registry": "^1.12.0",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "prettier": "^3.10.1"
+  }
+}

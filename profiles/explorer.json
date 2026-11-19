@@ -1,0 +1,11 @@
+{
+  "id": "ghost-006",
+  "username": "Ghostexplorer",
+  "role": "explorer",
+  "clanId": "ghost-clan-alpha",
+  "personality": "curious",
+  "priorities": ["mapping"],
+  "responsibilities": ["Survey terrain"],
+  "aiEnabled": true,
+  "enabled": false
+}

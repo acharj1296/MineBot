@@ -1,0 +1,11 @@
+{
+  "id": "ghost-001",
+  "username": "GhostKing",
+  "role": "leader",
+  "clanId": "ghost-clan-alpha",
+  "personality": "strategic",
+  "priorities": ["coordination"],
+  "responsibilities": ["Organize settlement plans"],
+  "aiEnabled": true,
+  "enabled": true
+}
